@@ -1,0 +1,63 @@
+New features planned for version 3.0		
+Sum of absolute difference		
+Sum of squared difference		
+Mean absolute error		
+Mean squared error		
+Euclidean distance		
+Manhatten distance		
+Chebyshev distance		
+Minkowski distance		
+Canberra distance		
+Cosine distance		
+Pearson’s distance		
+Hamming distance		
+Improved logic functions		
+Phasor addition		
+Phasor subtraction		
+Phasor multiplication		
+Phasor division		
+Phasor inversion		
+Complex conjugation		
+Phasor>exponential		
+Exponential>phasor		
+Phasor scalar multiplication		
+Phasor time differential		
+Phasor time integral		
+Radial grid		
+Polar graph		
+New Code features		
+Print		Statements to try to bring out to spreadsheet
+InputBox		
+Blue		
+Green		
+Red		
+QBColor		
+RGB		
+Close file		
+FreeFile		
+Open file		
+Reset IO		
+Get		
+Input#		
+Line input#		
+Put		
+Write		
+Loc		
+Seek		
+Eof		
+Lof		
+ChDir		
+ChDrive		
+CurDir		
+Dir		
+FileAttr		
+FileCopy		
+FileDateTime		
+FileExists		
+FileLen		
+GetAttr		
+Kill		
+MkDir		
+Name		
+RmDir		
+SetAttr		
